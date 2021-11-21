@@ -1,7 +1,7 @@
 # Time-Scheduler
 
-## This is a full-stack web application for users to manage schedules and get reminded of uncompleted tasks
+This is a full-stack web application for users to manage schedules and get reminded of uncompleted tasks
 
-##Technologies:
+## Technologies:
 
 * Spring boot & React.JS
