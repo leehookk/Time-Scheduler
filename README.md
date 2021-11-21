@@ -4,4 +4,4 @@ This is a full-stack web application for users to manage schedules and get remin
 
 ## Technologies:
 
-* Spring boot & React.JS
+* Spring boot, React.JS, Bootstrap, Java, Spring Security, JWT, JPA, Hibernate
